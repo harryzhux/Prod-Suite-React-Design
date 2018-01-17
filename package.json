@@ -1,5 +1,10 @@
 {
-  "private": true,
+  "name": "Prod-Suite-React-Design",
+  "version": "0.1.0",
+  "description": "A design using ant motion & react for product suite",
+  "author": "Harry Zhu <harryzhux@gmail.com> (http://github.com/harryzhux)",
+  "license": "MIT",
+  "repository": "https://github.com/harryzhux/Prod-Suite-React-Design",
   "scripts": {
     "start": "roadhog server",
     "build": "roadhog build",
@@ -7,7 +12,7 @@
     "precommit": "npm run lint"
   },
   "engines": {
-    "install-node": "6.11.1"
+    "install-node": "9.4.0"
   },
   "dependencies": {
     "antd": "^3.1.3",
