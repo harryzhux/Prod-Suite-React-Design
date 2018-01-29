@@ -1,7 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import enquire from 'enquire.js';
-import { scrollScreen } from 'rc-scroll-anim';
 
 import ProductBanner from './ProductBanner';
 import '../../assets/less/products/products_style.less';

@@ -1,7 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import enquire from 'enquire.js';
-import { scrollScreen } from 'rc-scroll-anim';
 
 import Nav from '../../components/Nav';
 import WorkloadContainer from './WorkloadContainer';
