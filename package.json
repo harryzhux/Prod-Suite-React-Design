@@ -15,9 +15,9 @@
     "install-node": "9.4.0"
   },
   "dependencies": {
-    "antd": "^3.1.4",
+    "antd": "^3.6.1",
     "babel-runtime": "^6.26.0",
-    "dva": "^2.1.0",
+    "dva": "^2.3.0",
     "enquire": "^0.0.2",
     "prop-types": "^15.6.0",
     "rc-banner-anim": "^1.0.1",
@@ -33,7 +33,7 @@
     "babel-plugin-dva-hmr": "^0.4.1",
     "babel-plugin-import": "^1.6.3",
     "babel-plugin-transform-runtime": "^6.23.0",
-    "eslint": "^4.16.0",
+    "eslint": "^4.19.1",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",

@@ -10,10 +10,10 @@ export default [
       'FlowTracer’s powerful user interface provides users with unique flow visualization and troubleshooting capabilities for greater productivity.',
     ],
     menu: {
-      menu1: {text: 'FT-Item1', icon: 'switcher'},
-      menu2: {text: 'FT-Item2', icon: 'share-alt'},
-      menu3: {text: 'FT-Item3', icon: 'api'},
-      menu4: {text: 'FT-Item4', icon: 'line-chart'},
+      menu1: { text: 'FT-Item1', icon: 'switcher' },
+      menu2: { text: 'FT-Item2', icon: 'share-alt' },
+      menu3: { text: 'FT-Item3', icon: 'api' },
+      menu4: { text: 'FT-Item4', icon: 'line-chart' },
     },
   },
   {
@@ -26,10 +26,10 @@ export default [
       'LicenseAllocator achieves maximized license utilization by following the fundamental rules of “following the demand”, “gradual license migration”, and “license sharing according to policies”.',
     ],
     menu: {
-      menu1: {text: 'LA-Item1', icon: 'switcher'},
-      menu2: {text: 'LA-Item2', icon: 'share-alt'},
-      menu3: {text: 'LA-Item3', icon: 'api'},
-      menu4: {text: 'LA-Item4', icon: 'line-chart'},
+      menu1: { text: 'LA-Item1', icon: 'switcher' },
+      menu2: { text: 'LA-Item2', icon: 'share-alt' },
+      menu3: { text: 'LA-Item3', icon: 'api' },
+      menu4: { text: 'LA-Item4', icon: 'line-chart' },
     },
   },
   {
@@ -41,10 +41,10 @@ export default [
       'LicenseMonitor is a software license-tracking tool providing current and historical software license utilization for multi-site environments. Software license availability and usage statistics are gathered and displayed in real-time via a rich GUI. Current and historical usage data provides information for accurate planning and license cost optimization. LicenseMonitor is an essential license asset monitoring tool for any size organization.',
     ],
     menu: {
-      menu1: {text: 'LM-Item1', icon: 'switcher'},
-      menu2: {text: 'LM-Item2', icon: 'share-alt'},
-      menu3: {text: 'LM-Item3', icon: 'api'},
-      menu4: {text: 'LM-Item4', icon: 'line-chart'},
+      menu1: { text: 'LM-Item1', icon: 'switcher' },
+      menu2: { text: 'LM-Item2', icon: 'share-alt' },
+      menu3: { text: 'LM-Item3', icon: 'api' },
+      menu4: { text: 'LM-Item4', icon: 'line-chart' },
     },
   },
   {
@@ -56,10 +56,10 @@ export default [
       'Industry’s fastest job scheduler, NetworkComputer is a an enterprise grade job scheduler designed for distributed High-Performance-Computing (HPC) environments. A highly adaptable solution, it is capable of managing compute infrastructures from small dedicated server farms to complex distributed HPC environments.',
     ],
     menu: {
-      menu1: {text: 'Workload', icon: 'switcher'},
-      menu2: {text: 'Slaves', icon: 'share-alt'},
-      menu3: {text: 'Resources', icon: 'api'},
-      menu4: {text: 'Reports', icon: 'line-chart'},
+      menu1: { text: 'Workload', icon: 'switcher' },
+      menu2: { text: 'Slaves', icon: 'share-alt' },
+      menu3: { text: 'Resources', icon: 'api' },
+      menu4: { text: 'Reports', icon: 'line-chart' },
     },
   },
   {
@@ -72,10 +72,10 @@ export default [
       'WorkloadXelerator is designed to work with NetworkComputer™, IBM® Platform™ LSF® and other third party schedulers.',
     ],
     menu: {
-      menu1: {text: 'WX-Item1', icon: 'switcher'},
-      menu2: {text: 'WX-Item2', icon: 'share-alt'},
-      menu3: {text: 'WX-Item3', icon: 'api'},
-      menu4: {text: 'WX-Item4', icon: 'line-chart'},
+      menu1: { text: 'WX-Item1', icon: 'switcher' },
+      menu2: { text: 'WX-Item2', icon: 'share-alt' },
+      menu3: { text: 'WX-Item3', icon: 'api' },
+      menu4: { text: 'WX-Item4', icon: 'line-chart' },
     },
   },
   {
@@ -88,10 +88,10 @@ export default [
       'A vendor independent solution, HERO is capable of managing job scheduling requirements of the Cadence® Palladium®, Mentor Graphics® Veloce® and Synopsys® ZeBu® product families.',
     ],
     menu: {
-      menu1: {text: 'HERO-Item1', icon: 'switcher'},
-      menu2: {text: 'HERO-Item2', icon: 'share-alt'},
-      menu3: {text: 'HERO-Item3', icon: 'api'},
-      menu4: {text: 'HERO-Item4', icon: 'line-chart'},
+      menu1: { text: 'HERO-Item1', icon: 'switcher' },
+      menu2: { text: 'HERO-Item2', icon: 'share-alt' },
+      menu3: { text: 'HERO-Item3', icon: 'api' },
+      menu4: { text: 'HERO-Item4', icon: 'line-chart' },
     },
   },
 ];
